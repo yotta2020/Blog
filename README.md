@@ -15,4 +15,4 @@ state: doing
 # 列表
 
 
-[巨人的工具](%E5%B7%A8%E4%BA%BA%E7%9A%84%E5%B7%A5%E5%85%B7.md)
+[巨人的工具](books/%E5%B7%A8%E4%BA%BA%E7%9A%84%E5%B7%A5%E5%85%B7.md)
