@@ -1,10 +1,18 @@
-# QuickReads100
+---
+share: "true"
+state: doing
+---
 
 
 
+这个仓库的目的是
+1. 帮助我自己多读书
+2. 帮助读者快速挑选自己想要的书
 
 
+初步目标 100本书
 
-本书的版权协议为 [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)。
+# 列表
 
-![CC-BY-NC-ND](images/CC-BY-NC-ND.png?raw=true)
+
+[巨人的工具](%E5%B7%A8%E4%BA%BA%E7%9A%84%E5%B7%A5%E5%85%B7.md)
